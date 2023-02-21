@@ -76,8 +76,10 @@ the simplified version without the reocorder is "phoneDial"
 ![Alt text](media/tele4.jpg)
 ![Alt text](media/tele5.JPG)
 
+under the hood
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Alt text](media/guts.jpg)
+![Alt text](media/duino.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,11 +90,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] put ring function back into millis mode (dont use delay() )
 
-- [ ] make it so the record function will hold the notes if you hold (currently it only records correctly if you play staccato
-
-- [ ] Feature 3
-
-
+- [ ] make it so the record function will hold the notes if you hold (currently it only records correctly if you play stacatto
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +117,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more info.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
